@@ -1,5 +1,5 @@
+import Head from "next/head";
 import { FC } from "react";
-import Head from "next/Head";
 import { Navbar } from "../ui/Navbar";
 
 interface LayoutProps {
